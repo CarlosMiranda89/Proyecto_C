@@ -35,6 +35,6 @@ int main(){
 		piezas_r-=1;
 	}
 	
-	 
+	
 	 return 0;
 }

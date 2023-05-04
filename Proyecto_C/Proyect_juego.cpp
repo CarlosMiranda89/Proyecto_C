@@ -22,7 +22,7 @@ int main(){
 		cin>>piezas_q;
 		piezas_r-=1;
 	}
-	
+	 
 	
 	return 0;
 }
